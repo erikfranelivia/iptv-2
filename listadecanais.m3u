@@ -1,0 +1,467 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE 1 HD
+http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE 1 HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2 FHD
+http://dmnet.distv.net/dianna/123456/40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 7 SD
+http://contentzord.gelderland.ga:2095/live/premiere7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 3 HD
+http://contentzord.gelderland.ga:2095/live/premiere3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 5 HD
+http://contentzord.gelderland.ga:2095/live/premiere5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6 HD
+http://contentzord.gelderland.ga:2095/live/premiere6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 1 HD
+http://dmnet.distv.net/dianna/123456/44
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 4 HD
+http://dmnet.distv.net/dianna/123456/47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 1 FHD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/39
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2 FHD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 3 FHD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 4 HD
+http://dmnet.distv.net/dianna/123456/47
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6 HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/44
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 7 SD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/45
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER
+http://45.58.126.146:14351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX 🎬
+http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", UNIVERSAL TV ***
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC ••
+http://199.127.60.83:16004/amc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN BRASIL HD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK HD
+http://boxtv.uniredes.com.br/rafael/rafael/219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CNN BRASIL
+http://45.58.126.146:14234/cnn
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1226301814.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E FULL HD
+http://45.58.126.146:14293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E FULL HD(ALT)
+http://199.127.60.83:16002/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN EXTRA HD
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/208946.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR+ 1
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR+ 2
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555038.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR+ 3
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555040.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR+ 4
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555041.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR+ 5
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555042.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT PLUS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1566301.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT PLUS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1566300.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESTADIO TNT SPORTS 1
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1454436.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESTADIO TNT SPORTS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1454440.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESTADIO TNT SPORTS 3
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1454439.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PAI ETERNO FHD
+http://warez.la:80/9462431/3792669/771.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL FHD
+http://warez.la:80/9462431/3792669/70.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BAND SP HD
+http://boxtv.uniredes.com.br/rafael/rafael/189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", JOVEM PAN NEWS HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX 🎬 HD
+http://dmnet.distv.net/dianna/123456/144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", JOVEM PAN NEWS HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOONITO HD
+http://45.58.126.146:14200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE 1 HD
+http://warez.la:80/9462431/3792669/12.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY HOME & HEALTH
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NATIONAL GEOGRAPHIC
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STAR CHANEL🎬 HD
+http://45.58.126.146:14329/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WARNER HD
+http://45.58.126.146:14351/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER HD
+http://45.58.126.146:14264/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SONY CHANNEL HD
+http://45.58.126.146:14302/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16704
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL HD
+http://45.58.126.146:14308/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD
+http://45.58.126.146:14296/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN EXTRA HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/36
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A&E HD
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWORK
+http://boxtv.uniredes.com.br/rafael/rafael/219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://51.159.54.153:14408/space
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://195.181.163.144:14730/space
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+https://tinyurl.com/FORMIGAtv12122022/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://contentzord.gelderland.ga:2095/live/space/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE HD
+http://45.58.126.146:14323/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPACE
+http://sukitam.bccdn.xyz:80/89732784592pw/8723498592pw/846
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL
+http://45.58.126.146:14252/http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL
+http://45.58.126.146:14252
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORD
+http://45.58.126.146:14273
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS HD
+http://contentzord.gelderland.ga:2095/live/discoverykids/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY ID HD
+http://contentzord.gelderland.ga:2095/live/idinvestigacaodiscovery/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H HD
+http://contentzord.gelderland.ga:2095/live/homehealth/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS HD
+http://contentzord.gelderland.ga:2095/live/discoverykids/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS HD
+http://warez.la:80/9462431/3792669/679.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY ID
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H&H HD
+http://45.58.126.146:14255/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER HD
+http://45.58.126.146:14264/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY HOME & HEALTH
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD
+http://45.58.126.146:14252/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO HD
+http://45.58.126.146:14267/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY ID
+http://45.58.126.146:14258/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD
+http://warez.la:80/9462431/3792669/1056.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL TST
+http://dmnet.distv.net/dianna/123456/170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO HD
+http://189.85.164.198:2086/live/DISCTUR/720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD
+http://dmnet.distv.net/dianna/123456/170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW
+https://tinyurl.com/FORMIGAtv12122022/118.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW HD
+http://contentzord.gelderland.ga:2095/live/multishow/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW HD
+http://contentzord.gelderland.ga:2095/live/multishow/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO 📺
+http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS UHD
+http://51.83.238.223:16825/globonews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO NEWS FHD
+http://warez.la:80/9462431/3792669/972.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP  FHD
+http://boxtv.uniredes.com.br/rafael/rafael/247
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GLOBO SP HD
+http://45.58.126.146:14055
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCL HD
+http://dmnet.distv.net/dianna/123456/156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT
+http://45.58.126.146:14320
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT PLUS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1566300.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT PLUS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1566301.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PARAMOUNT PLUS
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1566302.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH
+https://tinyurl.com/FORMIGAtv12122022/155.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE CULT
+http://dmnet.distv.net/dianna/123456/151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD
+http://dmnet.distv.net/dianna/123456/152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 🍿SD
+http://dmnet.distv.net/dianna/123456/153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM HD
+http://dmnet.distv.net/dianna/123456/154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE TOUCH HD
+http://dmnet.distv.net/dianna/123456/155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION
+http://51.83.238.223:16703/telecineaction
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 🍿🎬
+http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM
+http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE
+http://51.83.238.223:16763
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM HD
+http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 🍿 HD
+http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION
+http://contentzord.gelderland.ga:2095/live/telecinetouch/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE ACTION HD🎬👊
+http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE
+http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 🍿HD
+http://dmnet.distv.net/dianna/123456/153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD
+http://dmnet.distv.net/dianna/123456/152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PREMIUM HD
+http://warez.la:80/9462431/3792669/741.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE PIPOCA 🍿SD
+http://warez.la:80/9462431/3792669/738.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI
+http://15.235.10.31:14394
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://15.235.10.31:14378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 UHD
+http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 HD
+http://dmnet.distv.net/dianna/123456/136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY
+http://15.235.10.31:14386
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI BRASIL
+http://15.235.10.31:14393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP FHD
+http://15.235.10.31:14396
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI HD
+http://15.235.10.31:14392
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SIGNATURE HD
+http://15.235.10.31:14401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://195.181.163.144:14606/HBO
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
+http://15.235.10.31:14404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO XTREME
+http://15.235.10.31:14406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MUNDI
+http://15.235.10.31:14395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO2
+http://15.235.10.31:14384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO+
+http://51.222.44.30:14081
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MAX 4
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555029.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MAX 3
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555028.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MAX 2
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555027.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO MAX 1
+http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555026.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2
+http://15.235.10.31:14381
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO🎬
+http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://15.235.10.31:14379
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO
+http://195.181.163.144:14606/HBO2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VIVA HD
+http://warez.la:80/9462431/3792669/76.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE 1 HD
+http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMBATE 1 HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 2 FHD
+http://dmnet.distv.net/dianna/123456/40
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 7 SD
+http://contentzord.gelderland.ga:2095/live/premiere7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 3 HD
+http://contentzord.gelderland.ga:2095/live/premiere3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 5 HD
+http://contentzord.gelderland.ga:2095/live/premiere5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 6 HD
+http://contentzord.gelderland.ga:2095/live/premiere6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 1 HD
+http://dmnet.distv.net/dianna/123456/44
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY CHANNEL HD
+http://dmnet.distv.net/dianna/123456/170
+
